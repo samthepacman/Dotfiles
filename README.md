@@ -3,6 +3,8 @@
  <b><font-size="30px">There is no place like ~/</font></b>
 </p>
 
+----
+  
 | | |
 |-|-|
 | *OS* | Fedora Wokstation |
@@ -23,3 +25,9 @@
 *├──* `✅ Syncthing Setup with phone.`<br />
 &emsp;&emsp;&emsp;&emsp;*├──* `✅ Orgly on Mobile.`<br />
 &emsp;&emsp;&emsp;&emsp;*├──* `✅ Emacs / Logseq on PC.`<br />
+
+----
+
+<p align="center">
+<img src=".assets/Fullscreen.png" width="30%" />
+</p>
