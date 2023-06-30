@@ -29,5 +29,7 @@
 ----
 
 <p align="center">
-<img src=".assets/Fullscreen.png" width="30%" />
+<img src=".assets/Fullscreen.png" width="70%" />
+<img src=".assets/Windows.png" width="70%" />
+<img src=".assets/Workspace.png" width="70%" />
 </p>
