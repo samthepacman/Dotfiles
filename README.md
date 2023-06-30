@@ -3,7 +3,7 @@
  <b><font-size="30px">There is no place like ~/</font></b>
 </p>
 
-<p>
+<p align="center">
 <img src=".assets/Workspace.png" width="70%" />
 </p>
 ----
