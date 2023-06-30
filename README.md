@@ -10,9 +10,9 @@
 
 Todo Stuff
 *├──* ✅ GSConnect.<br />
-          *├──* ✅ Notification Sync.<br />
-          *├──* ✅ Clipboard Sync.<br />
+&emsp;*├──* ✅ Notification Sync.<br />
+&emsp;*├──* ✅ Clipboard Sync.<br />
 *├──* ❎ Logseq sync ( since logseq android is alpha ) ( with syncthing ).<br />
 *├──* ✅ Syncthing Setup with phone.<br />
-          *├──* ✅ Orgly on Mobile.<br />
-          *├──* ✅ Emacs / Logseq on PC.<br />
+&emsp;*├──* ✅ Orgly on Mobile.<br />
+&emsp;*├──* ✅ Emacs / Logseq on PC.<br />
