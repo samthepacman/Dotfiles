@@ -1,6 +1,10 @@
-# Org mode syntax
-
+<p align="center">
+ <b><font-size="24px">Dotfiles</font></b>
+<b><font-size="26px">There is no place like ~/</font></b>
+</p>
+|---|---|
 | *OS* | Fedora Wokstation |
+| *DE* | Gnome Shell |
 | *Shell* | zsh + starship prompt |
 | *Multiplexer* | Tmux |
 | *IDE* | Neovim (or) DOOM emacs |
