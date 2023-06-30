@@ -8,7 +8,7 @@
 
 ## MacOS Like Ecosystem With Linux And Android
 
-Todo Stuff
+### Todo Stuff. <br />
 *├──* ✅ GSConnect.<br />
 &emsp;&emsp;&emsp;*├──* ✅ Notification Sync.<br />
 &emsp;&emsp;&emsp;*├──* ✅ Clipboard Sync.<br />
