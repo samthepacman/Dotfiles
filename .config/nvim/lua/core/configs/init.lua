@@ -1,0 +1,8 @@
+require("core.configs.mason")
+require("core.configs.colorscheme")
+require("core.configs.nvim-tree")
+require("core.configs.telescope")
+require("core.configs.completions")
+require("core.configs.lsp_config")
+require("core.configs.rust_config")
+require("core.configs.lualine")
