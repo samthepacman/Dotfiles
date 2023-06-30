@@ -6,14 +6,13 @@
 | *IDE* | Neovim (or) DOOM emacs |
 | *Todo/Task Management* | Emacs - DOOM |
 
-***MacOS Like Ecosystem With Linux And Android
+## MacOS Like Ecosystem With Linux And Android
 
 Todo Stuff
-*├──* ✅ GSConnect.
-          *├──* ✅ Notification Sync
-          *├──* ✅ Clipboard Sync
-
-*├──* ❎ Logseq sync ( since logseq android is alpha ) ( with syncthing ).
-*├──* ✅ Syncthing Setup with phone.
-          *├──* ✅ Orgly on Mobile
-          *├──* ✅ Emacs / Logseq on PC
+*├──* ✅ GSConnect.<br />
+          *├──* ✅ Notification Sync.<br />
+          *├──* ✅ Clipboard Sync.<br />
+*├──* ❎ Logseq sync ( since logseq android is alpha ) ( with syncthing ).<br />
+*├──* ✅ Syncthing Setup with phone.<br />
+          *├──* ✅ Orgly on Mobile.<br />
+          *├──* ✅ Emacs / Logseq on PC.<br />
