@@ -2,7 +2,8 @@
  <h2><font-size="24px">Dotfiles</font></h>
  <h3><font-size="26px">There is no place like ~/</font></h>
 </p>
-  
+
+| | |
 |-|-|
 | *OS* | Fedora Wokstation |
 | *DE* | Gnome Shell |
