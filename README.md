@@ -18,7 +18,9 @@
 | *IDE* | Neovim (or) DOOM emacs |
 | *Todo/Task Management* | Emacs - DOOM |
 
-## MacOS Like Ecosystem With Linux And Android
+****
+
+## Apple Like Ecosystem With Linux And Android
 
 ### Todo Stuff. <br />
 *├──* `✅ GSConnect.`<br />
