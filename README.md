@@ -1,6 +1,6 @@
 <p align="center">
- <b><font-size="24px">DOTFILES</font></b> <br />
- <b><font-size="26px">There is no place like ~/</font></b>
+ <b><font-size="44px">DOTFILES</font></b> <br />
+ <b><font-size="30px">There is no place like ~/</font></b>
 </p>
 
 | | |
