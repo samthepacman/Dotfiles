@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src=".assets/Workspace.png" width="70%" />
+<img src=".assets/Workspace.png" width="100%" />
 </p>
 
 ****
@@ -33,6 +33,6 @@
 ----
 
 <p align="center">
-<img src=".assets/Fullscreen.png" width="70%" />
-<img src=".assets/Windows.png" width="70%" />
+<img src=".assets/Fullscreen.png" width="100%" />
+<img src=".assets/Windows.png" width="100%" />
 </p>
