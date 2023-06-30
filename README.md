@@ -3,6 +3,9 @@
  <b><font-size="30px">There is no place like ~/</font></b>
 </p>
 
+<p>
+<img src=".assets/Workspace.png" width="70%" />
+</p>
 ----
   
 | | |
@@ -31,5 +34,4 @@
 <p align="center">
 <img src=".assets/Fullscreen.png" width="70%" />
 <img src=".assets/Windows.png" width="70%" />
-<img src=".assets/Workspace.png" width="70%" />
 </p>
