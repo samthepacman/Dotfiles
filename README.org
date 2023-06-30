@@ -6,7 +6,6 @@
 | *Todo/Task Management* | Emacs - DOOM |
 
 Todo Stuff
-- [X] GSConnect.
-- [-] Logseq sync ( since logseq android is alpha ) ( with syncthing ).
-- [ ] Syncthing Setup with phone.
-- Normal list item.
+[X] GSConnect.
+[-] Logseq sync ( since logseq android is alpha ) ( with syncthing ).
+[ ] Syncthing Setup with phone.
