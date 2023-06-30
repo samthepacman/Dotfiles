@@ -12,7 +12,7 @@
 *├──* `✅ GSConnect.`<br />
 *|*&emsp;&emsp;&emsp;&emsp;*├──* `✅ Notification Sync.`<br />
 *|*&emsp;&emsp;&emsp;&emsp;*├──* `✅ Clipboard Sync.`<br />
-*|*
+*|*<br />
 *├──* `❎ Logseq sync ( since logseq android is alpha ) ( with syncthing ).`<br />
 *├──* `✅ Syncthing Setup with phone.`<br />
 &emsp;&emsp;&emsp;&emsp;*├──* `✅ Orgly on Mobile.`<br />
